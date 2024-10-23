@@ -10,10 +10,7 @@
 
 - <b>MS Excel</b>
   - [Price Volume Mix Analysis](https://github.com/Quinnie-hello/PVM)
-  - [Capital Allocation for Investment Decision](https://github.com/joshmadakor1/EncrypterPOC)
-
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Capital Allocation for Investment Decision](https://github.com/Quinnie-hello/Assetallocation)
 
 <h2>📜  Certification:</h2>
 
