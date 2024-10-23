@@ -17,7 +17,7 @@
 
 <h2>📜  Certification:</h2>
 
-  - [AI Technology for Marketing Optimization](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [AI Technology for Marketing Optimization](https://github.com/Quinnie-hello/Certificate)
   
 <h2> 🤳 Connect with me:</h2>
 
