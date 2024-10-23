@@ -9,7 +9,7 @@
   - [Sales Dashboard](https://github.com/Quinnie-hello/Salesdashboard/tree/main)
 
 - <b>MS Excel</b>
-  - [Price Volume Mix Analysis](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Price Volume Mix Analysis](https://github.com/Quinnie-hello/PVM)
   - [Capital Allocation for Investment Decision](https://github.com/joshmadakor1/EncrypterPOC)
 
 - <b>Python</b>
