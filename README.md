@@ -6,7 +6,7 @@
 
 - <b>Power BI </b>
   - [Email Marketing Campaign Analysis](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
-  - [Sales Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Sales Dashboard](https://github.com/Quinnie-hello/Salesdashboard/tree/main)
 
 - <b>MS Excel</b>
   - [Price Volume Mix Analysis](https://github.com/joshmadakor1/EncrypterPOC)
