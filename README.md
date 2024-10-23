@@ -15,6 +15,7 @@
 <h2>📜  Certification:</h2>
 
   - [AI Technology for Marketing Optimization](https://github.com/Quinnie-hello/Certificate)
+  - [Fundamentals of Python](https://github.com/Quinnie-hello/Certificate)
   
 <h2> 🤳 Connect with me:</h2>
 
