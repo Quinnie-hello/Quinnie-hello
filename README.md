@@ -1,5 +1,7 @@
 <h1>Hi, I'm Quinnie! <br/> <a href="https://www.linkedin.com/in/quynhtruong/">Senior Business Analyst</a></h1>
 
+<h3> Passionate about utilizing data-driven approaches to solve complex business problems and drive organizational growth </h3>
+
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Power BI (AlgoExpert)</b>
