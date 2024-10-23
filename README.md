@@ -4,7 +4,7 @@
 
 <h2>👨‍💻  Projects:</h2>
 
-- <b>Power BI (AlgoExpert)</b>
+- <b>Power BI </b>
   - [Email Marketing Campaign Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Sales Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
 
