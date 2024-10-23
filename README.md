@@ -5,7 +5,7 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Power BI </b>
-  - [Email Marketing Campaign Dashboard](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
+  - [Email Marketing Campaign Analysis](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
   - [Sales Dashboard](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>MS Excel</b>
