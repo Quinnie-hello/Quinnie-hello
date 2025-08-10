@@ -5,7 +5,7 @@
 <h2>👨‍💻  Projects:</h2>
 
 - <b>Python </b>
-  - [Data visualisation of Avocado](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
+  - [Data visualisation of Avocado](https://github.com/Quinnie-hello/Python/tree/main)
   
 - <b>Power BI </b>
   - [Email Marketing Campaign Analysis](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
