@@ -3,7 +3,8 @@
 <h4> Passionate about utilizing data-driven approaches to solve complex business problems and drive organizational growth </h4>
 
 <h2>👨‍💻  Projects:</h2>
-- <b>PythonI </b>
+
+- <b>Python </b>
   - [Data visualisation of Avocado](https://github.com/Quinnie-hello/Emailcampaign/tree/main)
   
 - <b>Power BI </b>
